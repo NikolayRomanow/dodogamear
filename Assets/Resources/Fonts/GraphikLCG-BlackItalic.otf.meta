@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: 87d701e82728f38409917e45c189d488
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Graphik LCG
+  fontNames:
+  - Graphik LCG
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a6e20f262aefede438e58fda661a60cf, type: 3}
+  - {fileID: 12800000, guid: b67d3ef69fa29cf409e0fa1aac0c086b, type: 3}
+  - {fileID: 12800000, guid: 651560f8359be8645b789dd094ca9768, type: 3}
+  - {fileID: 12800000, guid: 62f650ec51e89014585eaffa50ff78b2, type: 3}
+  - {fileID: 12800000, guid: 04c4d91e799b1664dbd0c156a6c6d4ce, type: 3}
+  - {fileID: 12800000, guid: 0548d66e9ca2e854c84d50889bc707d7, type: 3}
+  - {fileID: 12800000, guid: 3458849ea13f17a48be288176a878acd, type: 3}
+  - {fileID: 12800000, guid: 72277a0fca710d44b843d6e4dd610f5c, type: 3}
+  - {fileID: 12800000, guid: c392bb5feee2dff41b48ec995d71765b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
